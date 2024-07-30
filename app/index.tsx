@@ -7,8 +7,7 @@ import AppGradient from '@/components/AppGradient'
 import { useRouter } from 'expo-router'
 import Animated, {
     FadeInDown,
-    FadeInUp,
-    withSpring,
+
 } from 'react-native-reanimated'
 
 import beachImage from '@/assets/meditation-images/beach.webp'
